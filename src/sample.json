@@ -1,0 +1,739 @@
+{
+  "status": 200,
+  "message": "success",
+  "rate_type": "TBE",
+  "countries": {
+    "AT": {
+      "country": "Austria",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 10,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 10,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "BE": {
+      "country": "Belgium",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 6,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "BG": {
+      "country": "Bulgaria",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        }
+      }
+    },
+    "HR": {
+      "country": "Croatia",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 25,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 25,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 25,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 5,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "CY": {
+      "country": "Cyprus",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 19,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 19,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 19,
+            "comments": null
+          }
+        }
+      }
+    },
+    "CZ": {
+      "country": "Czech Republic",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        }
+      }
+    },
+    "DK": {
+      "country": "Denmark",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 25,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 25,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 25,
+            "comments": null
+          }
+        }
+      }
+    },
+    "EE": {
+      "country": "Estonia",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        }
+      }
+    },
+    "FI": {
+      "country": "Finland",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 24,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 24,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 24,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 10,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "FR": {
+      "country": "France",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 20,
+            "comments": "Offre triple play"
+          },
+          "reduced_1": {
+            "rate": 10,
+            "comments": "Offres TV seule"
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 5.5,
+            "comments": "eBooks"
+          },
+          "reduced_2": {
+            "rate": 2.1,
+            "comments": "eNewspapers"
+          }
+        }
+      }
+    },
+    "DE": {
+      "country": "Germany",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 19,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 19,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 19,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 7,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "GR": {
+      "country": "Greece",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 24,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 24,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 24,
+            "comments": null
+          }
+        }
+      }
+    },
+    "HU": {
+      "country": "Hungary",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 27,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 5,
+            "comments": "Only for Internet access service as defined in point 2 of Article 2 of 2015\/2120\/EU."
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 27,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 27,
+            "comments": null
+          }
+        }
+      }
+    },
+    "IE": {
+      "country": "Ireland",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 23,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 23,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 23,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 9,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "IT": {
+      "country": "Italy",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 22,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 22,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 22,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 4,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "LV": {
+      "country": "Latvia",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        }
+      }
+    },
+    "LT": {
+      "country": "Lithuania",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 5,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "LU": {
+      "country": "Luxembourg",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 17,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 17,
+            "comments": "Reception of radio and TV broadcasting services whose content is exclusively for adults, regardless of the electronic communications network used"
+          },
+          "reduced_1": {
+            "rate": 3,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 17,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 3,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "MT": {
+      "country": "Malta",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 18,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 18,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 18,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 5,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "NL": {
+      "country": "Netherlands",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 9,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "PL": {
+      "country": "Poland",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 23,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 23,
+            "comments": "Services related to rental of audio and video content on-demand"
+          },
+          "reduced_1": {
+            "rate": 8,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 23,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 8,
+            "comments": "eNewspapers"
+          },
+          "reduced_2": {
+            "rate": 5,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "PT": {
+      "country": "Portugal",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 23,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 23,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 23,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 6,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "RO": {
+      "country": "Romania",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 19,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 19,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 19,
+            "comments": null
+          }
+        }
+      }
+    },
+    "SK": {
+      "country": "Slovakia",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        }
+      }
+    },
+    "SI": {
+      "country": "Slovenia",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 22,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 22,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 22,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 5,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "ES": {
+      "country": "Spain",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 21,
+            "comments": null
+          }
+        }
+      }
+    },
+    "SE": {
+      "country": "Sweden",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 25,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 25,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 25,
+            "comments": null
+          },
+          "reduced_1": {
+            "rate": 6,
+            "comments": "eBooks"
+          }
+        }
+      }
+    },
+    "GB": {
+      "country": "United Kingdom",
+      "rates": {
+        "telecoms": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        },
+        "broadcasting": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        },
+        "electronic": {
+          "standard": {
+            "rate": 20,
+            "comments": null
+          }
+        }
+      }
+    }
+  }
+}

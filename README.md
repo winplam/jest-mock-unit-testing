@@ -1,0 +1,1 @@
+Jest mock unit testing follow along practice based on [Unit testing in Javascript video](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr)

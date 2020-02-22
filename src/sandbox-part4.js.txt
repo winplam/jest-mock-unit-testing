@@ -1,0 +1,17 @@
+require('dotenv').config()
+const fetch = require('node-fetch')
+const region = 'eu'
+const type = 'TBE'
+var requestOptions = {
+  method: 'GET',
+  headers: { 'x-api-key': process.env.VAT_API_KEY },
+  redirect: 'follow',
+}
+
+// https://eu.vatapi.com/v2/vat-rates?rate_type=TBE
+const result = fetch(`https://${region}.vatapi.com/v2/vat-rates?rate_type=${type}`, requestOptions)
+  .then(response => response.json())
+  .then(result => console.log(result.countries.DE.rates.electronic.standard.rate))
+  .catch(error => console.log('error', error))
+
+result
